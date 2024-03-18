@@ -1,6 +1,6 @@
 const express = require("express");
 const app = express();
-const port = "https://bajaj-test-abhiraj-2110990057.netlify.app/";
+const port = 3000;
 
 app.use(express.json());
 
